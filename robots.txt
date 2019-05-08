@@ -1,2 +1,3 @@
+Sitemap: https://jpgtopng.xyz/sitemap.xml
 User-agent: *
 Allow: /

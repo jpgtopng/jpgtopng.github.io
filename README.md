@@ -2,7 +2,7 @@
 
 ### JPG to PNG Description:
 
-The repository contained the minfied source code for the [JPG to PNG tool](https://jpgtopng.github.io). JPG to PNG is a free online tool that allows you to quickly convert from the JPG (also refered to as JPEG) file format to the PNG file format within your own browser using javascript.
+The repository contained the minified source code for the [JPG to PNG tool](https://jpgtopng.github.io). JPG to PNG is a free online tool that allows you to quickly convert from the JPG (also refered to as JPEG) file format to the PNG file format within your own browser using javascript.
 
 ### Compatibility
 JPG to PNG is compatible with most modern browsers
